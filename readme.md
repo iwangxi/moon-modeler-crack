@@ -6,4 +6,4 @@ Moon Modeler is not a free software. If you want to use it, you should buy a lic
 
 to use 
 1. npm i 
-2. node index.js <your product name like moon>
+2. node index.js 《your product name like moon》
